@@ -1,5 +1,8 @@
 # Fetal lung analysis
 
+Trajectory analysis, signaling analysis, spatial analysis, and hPSC analysis for "Early human fetal lung atlas reveals the temporal dynamics of epithelial cell plasticity".
+
+See also https://github.com/The-HQQ/Human_fetal_lung_atlas/
 
 ## Versions
 python packages:
@@ -28,3 +31,7 @@ slingshot 2.7.0
 SingleCellExperiment 1.16.0
 tradeSeq 1.8.0
 ```
+
+## Citation
+
+Coming...
